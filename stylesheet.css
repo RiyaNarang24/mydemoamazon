@@ -409,8 +409,10 @@ color: red;
     }
     .div
     {
-        display:flex;
-        flex-wrap:wrap;
+/*         display:flex;
+        flex-wrap:wrap; */
+         flex-grow:1;
+    flex basis:200;
     }
     }
     }
