@@ -407,6 +407,10 @@ color: red;
     flex-grow:1;
     flex basis:200;
     }
+    .div
+    {
+        display:flex;
+        flex-wrap:wrap;
     }
     }
-    
+    }
