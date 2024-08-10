@@ -394,6 +394,9 @@ color: red;
     color: white;
     background-color: black;
 }
+@ media only screen and (max-width:600px{
+    body
+    {
 .container
 {
     display:flex;
@@ -404,3 +407,6 @@ color: red;
     flex-grow:1;
     flex basis:200;
     }
+    }
+    }
+    
